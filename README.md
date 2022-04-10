@@ -21,7 +21,7 @@ Your Final Grade = round(0.3 * hw_1  + 0.3 * hw_2 + 0.3 * hw_3 + 0.1 * exam)
 Your Grade in the 4th module will be calculated based on your HW results.
 
 # Homeworks
-### Submission
+## Submission
 All homework assignments should be send via [AnyTask](https://anytask.org). Invite for the course is **PKivb1Q**.
 
 

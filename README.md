@@ -1,10 +1,10 @@
 # Deep learning course for HSE Master’s Programme "Machine Learning and Data-Intensive Systems" 
 
-## Seminars
+## Basic Info
 
-**Wednesday 18.00**
+Seminars: **Wednesday 18.00**
  
-#### This course was originally developed by [pet67](https://github.com/pet67) and is strongly based on materials from other great HSE DL courses:
+This course was originally developed by [pet67](https://github.com/pet67) and is strongly based on materials from other great HSE DL courses:
 1. https://github.com/hse-ds/iad-deep-learning
 2. https://github.com/yandexdataschool/Practical_DL
 
@@ -20,7 +20,7 @@ Your Grade in the 4th module will be calculated based on your HW results.
 
 # Homeworks
 ### Submission
-All homework assignments should be send via AnyTask (coming soon). You may send the google collar link there but ensure that you **have given access via the link**. The best way is to send both: ipynb itself and the link to collab. It is also better to name the files like this:
+All homework assignments should be send via AnyTask (coming soon). You may send the google collab link but ensure that you **have given access via the link**. The best way is to send both: ipynb itself and the link to collab. It is also better to name the files like this:
 
 **"{surname}\_\_hw\_{number}\.ipynb"** or **"{surname}\_\_ehw\_{week_number}\.ipynb"** (for extra homeworks).
 

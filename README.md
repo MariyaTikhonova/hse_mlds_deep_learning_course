@@ -8,7 +8,7 @@ This course was originally developed by [pet67](https://github.com/pet67) and is
 1. https://github.com/hse-ds/iad-deep-learning
 2. https://github.com/yandexdataschool/Practical_DL
 
-All used materials from other cources has corresponding references.
+All used materials from other courses has corresponding references.
 
 Material from the previous session of the course can be found in [main branch](https://github.com/pet67/hse_mlds_deep_learning_course).
 

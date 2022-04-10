@@ -9,8 +9,7 @@
 
 
 ## Seminar
-* seminar MLDS DL Week 1_ Intro 12 04.pdf
-* seminar [video](https://www.youtube.com/watch?v=uQJuZxiAUVA&list=PLDa1nku7NnMlRfI3jvKJ7mzYPXrHafQY5)
+* seminar [slides](https://github.com/MariyaTikhonova/hse_mlds_deep_learning_course/blob/spring_fall_22/week_01_intro/MLDS%20DL%20Week%201_%20Intro%2012%2004.pdf)
 * YSDA backprop notebook [seminar](https://github.com/yandexdataschool/Practical_DL/blob/fall21/week01_backprop/backprop.ipynb)
 * Bonus: YSDA sgd notebook [seminar](https://github.com/yandexdataschool/Practical_DL/blob/fall21/week01_backprop/adapdive_sgd/adaptive_sgd.ipynb)
 

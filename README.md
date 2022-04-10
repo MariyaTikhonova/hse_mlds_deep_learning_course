@@ -2,7 +2,9 @@
 
 ## Basic Info
 
-Seminars: **Wednesday 18.00**
+Course page can be found via this [link](http://wiki.cs.hse.ru/%D0%93%D0%BB%D1%83%D0%B1%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%9C%D0%9E%D0%B8%D0%92%D0%A1-2022-2023)
+
+Seminars: **[Wednesday 18.00](https://docs.google.com/spreadsheets/d/158tztQ-jFFErWMk7k3INnSs8tjDTWP9j1SBE-uxFfMw/edit)** 
  
 This course was originally developed by [pet67](https://github.com/pet67) and is strongly based on materials from other great HSE DL courses:
 1. https://github.com/hse-ds/iad-deep-learning
@@ -20,7 +22,10 @@ Your Grade in the 4th module will be calculated based on your HW results.
 
 # Homeworks
 ### Submission
-All homework assignments should be send via AnyTask (coming soon). You may send the google collab link but ensure that you **have given access via the link**. The best way is to send both: ipynb itself and the link to collab. It is also better to name the files like this:
+All homework assignments should be send via [AnyTask](https://anytask.org). Invite for the course is **PKivb1Q**.
+
+
+You may send the google collab link but ensure that you **have given access via the link**. The best way is to send both: ipynb itself and the link to collab. It is also better to name the files like this:
 
 **"{surname}\_\_hw\_{number}\.ipynb"** or **"{surname}\_\_ehw\_{week_number}\.ipynb"** (for extra homeworks).
 

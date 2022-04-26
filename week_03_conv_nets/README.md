@@ -16,8 +16,8 @@
 ## Homework CNN (NOT optional)
 We will solve [iad-deep-learning conv nets homework](https://github.com/hse-ds/iad-deep-learning/blob/master/2021/homeworks/hw02/hw2.ipynb). You need to solve **both** tasks.
 
-Part 1 cnn from scratch (1.5 points): **deadline 19.12.2021**
+Part 1 cnn from scratch (1.5 points)
 
-Part 2 finetune (1.5 points): **deadline 26.12.2021**
+Part 2 finetune (1.5 points)
 
-
+**deadline 15.05.2021 9:00 AM MSK**

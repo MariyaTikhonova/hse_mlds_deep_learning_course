@@ -8,9 +8,9 @@
 * [iad-deep-learning convnets-augmentation (start from 1:00:00, about augmentation)](https://youtu.be/7ljQTZ8HT-A?list=PLEwK9wdS5g0qa3PIhR6HBDJD_QnrfP8Ei&t=3639)
 
 ## Seminar
-* [slides](https://docs.google.com/presentation/d/11F-_VgfkTqVPgaIi23OpyHf7Gwzbwh1GxrdTuabNnRc/edit?usp=sharing)
-* [iad-deep-learning conv nets week 2](https://github.com/hse-ds/iad-deep-learning/blob/master/2021/seminars/sem02/sem02_task.ipynb)
-* [iad-deep-learning conv nets week 3](https://github.com/hse-ds/iad-deep-learning/blob/master/2021/seminars/sem03/sem03_task.ipynb)
+* [slides](https://github.com/MariyaTikhonova/hse_mlds_deep_learning_course/blob/spring_fall_22/week_03_conv_nets/MLDS%20DL%20Week%203_%20CNN.pdf)
+* [practice part 1](https://github.com/MariyaTikhonova/hse_mlds_deep_learning_course/blob/spring_fall_22/week_03_conv_nets/sem03_p1_27_04.ipynb)
+* [practice part 2](https://github.com/MariyaTikhonova/hse_mlds_deep_learning_course/blob/spring_fall_22/week_03_conv_nets/sem03_p2_27_04.ipynb)
 
 
 ## Homework CNN (NOT optional)

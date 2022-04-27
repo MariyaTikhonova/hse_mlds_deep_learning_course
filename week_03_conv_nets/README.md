@@ -3,8 +3,7 @@
 ## Lectures on conv nets
 
 * [iad-deep-learning convnets-part-1 (start from 44:25)](https://youtu.be/aSTwlPjJfso?list=PLEwK9wdS5g0qa3PIhR6HBDJD_QnrfP8Ei&t=2665)
-* [iad-deep-learning convnets-part-2](https://www.youtube.com/watch?v=aSTwlPjJfso&list=PLEwK9wdS5g0qa3PIhR6HBDJD_QnrfP8Ei&index=2)
-* [iad-deep-learning convnets-part-3 (first 12 minutes)](https://www.youtube.com/watch?v=4nKWQno1vG8&list=PLEwK9wdS5g0qa3PIhR6HBDJD_QnrfP8Ei&index=11)
+* [iad-deep-learning convnets-part-2 ](https://www.youtube.com/watch?v=4nKWQno1vG8&list=PLEwK9wdS5g0qa3PIhR6HBDJD_QnrfP8Ei&index=11)
 * [iad-deep-learning convnets-augmentation (start from 1:00:00, about augmentation)](https://youtu.be/7ljQTZ8HT-A?list=PLEwK9wdS5g0qa3PIhR6HBDJD_QnrfP8Ei&t=3639)
 
 ## Seminar

@@ -6,5 +6,5 @@
 
 
 ## Seminar
-* [seminar slides](https://docs.google.com/presentation/d/1QPQRspfPwFe5-pR-T7Qtlygfh95FLpGjIkxDcoyPOSw/edit?usp=sharing)
-* [iad-deep-learning sem05](https://github.com/hse-ds/iad-deep-learning/blob/master/2021/seminars/sem05/sem05_solution.ipynb)
+* [slides](https://github.com/MariyaTikhonova/hse_mlds_deep_learning_course/blob/spring_fall_22/week_04_deep_conv/MLDS%20DL%20Week%204_%20Deep%20CNN.pdf)
+* [practice](https://github.com/MariyaTikhonova/hse_mlds_deep_learning_course/blob/spring_fall_22/week_04_deep_conv/sem04_11_05.ipynb)

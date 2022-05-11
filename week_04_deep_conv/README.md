@@ -8,4 +8,4 @@
 ## Seminar
 * [slides](https://github.com/MariyaTikhonova/hse_mlds_deep_learning_course/blob/spring_fall_22/week_04_deep_conv/MLDS%20DL%20Week%204_%20Deep%20CNN.pdf)
 * [practice](https://github.com/MariyaTikhonova/hse_mlds_deep_learning_course/blob/spring_fall_22/week_04_deep_conv/sem04_11_05.ipynb)
-* [data for practice] (https://drive.google.com/file/d/1kPRBuy1CY9JyLken_rD0kPgaZAOLV21x/view?usp=sharing)
+* [data for practice](https://drive.google.com/file/d/1kPRBuy1CY9JyLken_rD0kPgaZAOLV21x/view?usp=sharing)

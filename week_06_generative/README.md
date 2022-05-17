@@ -14,7 +14,7 @@ Basics (coursera):
 
 
 ## Extra materials:
-* [mathematics-of-variational-auto-encoders](https://davidstutz.de/the-mathematics-of-variational-auto-encoders/)
+* Article: [Mathematics of VAE](https://davidstutz.de/the-mathematics-of-variational-auto-encoders/)
 
 
 

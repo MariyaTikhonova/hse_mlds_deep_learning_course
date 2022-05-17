@@ -8,15 +8,13 @@ Basics (coursera):
 
 
 ## Seminar
-* [Slides]((https://github.com/MariyaTikhonova/hse_mlds_deep_learning_course/blob/spring_fall_22/week_06_generative/MLDS DL Week 6_ Generative.pdf))
-* [lyeoni/pytorch-mnist-GAN](https://github.com/lyeoni/pytorch-mnist-GAN/blob/master/pytorch-mnist-GAN.ipynb)
-* [lyeoni/pytorch-mnist-VAE](https://github.com/lyeoni/pytorch-mnist-VAE/blob/master/pytorch-mnist-VAE.ipynb)
+* [Slides](https://github.com/MariyaTikhonova/hse_mlds_deep_learning_course/blob/spring_fall_22/week_06_generative/MLDS%20DL%20Week%206_%20Generative.pdf)
+* [Practice GAN](https://github.com/MariyaTikhonova/hse_mlds_deep_learning_course/blob/spring_fall_22/week_06_generative/MLDS_practice_week6_GAN_18_05.ipynb)
+* [Practice VAE](https://github.com/MariyaTikhonova/hse_mlds_deep_learning_course/blob/spring_fall_22/week_06_generative/MLDS_practice_week6_VAE_18_05.ipynb)
 
 
-## Extra matirials:
+## Extra materials:
 * [mathematics-of-variational-auto-encoders](https://davidstutz.de/the-mathematics-of-variational-auto-encoders/)
 
-## Optional homework (0.5 points)
-* [yandexdataschool/adversarial_pytorch](https://github.com/yandexdataschool/Practical_DL/blob/fall21/week08_generative/adversarial_pytorch.ipynb)
 
 

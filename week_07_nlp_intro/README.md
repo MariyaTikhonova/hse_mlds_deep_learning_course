@@ -4,11 +4,8 @@
 * [iad-deep-learning lection 9](https://www.youtube.com/watch?v=_Gnh8Z2Pn_o&list=PLEwK9wdS5g0qa3PIhR6HBDJD_QnrfP8Ei)
 
 ## Seminar
-* [seminar slides](https://docs.google.com/presentation/d/1GON0_voswqvbu3TDtJwEbZxZfYo6_08YWwl-W5yfrlc/edit?usp=sharing)
-* [Practical_DL/week05_nlp/seminar.ipynb](https://github.com/yandexdataschool/Practical_DL/blob/fall21/week05_nlp/seminar.ipynb)
-* [Practical_DL/week05_nlp/part2_pytorch.ipynb](https://github.com/yandexdataschool/Practical_DL/blob/fall21/week05_nlp/part2_pytorch.ipynb)
+* [Seminar slides](https://github.com/MariyaTikhonova/hse_mlds_deep_learning_course/blob/spring_fall_22/week_07_nlp_intro/MLDS%20DL%20Week%207_%20NLP%20intro.pdf)
+* [Practice](https://github.com/MariyaTikhonova/hse_mlds_deep_learning_course/blob/spring_fall_22/week_07_nlp_intro/MLDS_practice_week7_25_05.ipynb)
+* [Data for practice](https://github.com/MariyaTikhonova/hse_mlds_deep_learning_course/blob/spring_fall_22/week_07_nlp_intro/Data.zip)
 
 
-## Optional homework (0.5 point)
-* [Practical_DL/week05_nlp/part1_common.ipynb](https://github.com/yandexdataschool/Practical_DL/blob/fall21/week05_nlp/part1_common.ipynb) + compare bag of words vs tf-idf features
-* [Practical_DL/week05_nlp/part2_pytorch.ipynb](https://github.com/yandexdataschool/Practical_DL/blob/fall21/week05_nlp/part2_pytorch.ipynb) - hw at the end of notebook

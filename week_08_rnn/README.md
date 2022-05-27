@@ -5,9 +5,11 @@
 
 
 ## Seminar
-* [seminar slides](https://docs.google.com/presentation/d/1ca1vf3DbnznLRr5e_b4PbCxCmpVX6JkTTVVXPbWNcco/edit?usp=sharing)
+* [seminar slides](https://github.com/MariyaTikhonova/hse_mlds_deep_learning_course/blob/spring_fall_22/week_08_rnn/MLDS%20DL%20Week%208_%20RNN.pdf)
 
-* [practice](https://github.com/hse-ds/iad-deep-learning/blob/master/2021/seminars/sem08/sem08_task.ipynb)
+* [practice](https://github.com/MariyaTikhonova/hse_mlds_deep_learning_course/blob/spring_fall_22/week_08_rnn/MLDS_practice_week8_01_06.ipynb)
+
+* [data for practice](https://github.com/MariyaTikhonova/hse_mlds_deep_learning_course/blob/spring_fall_22/week_08_rnn/anna.txt)
 
 
 ## Homework NLP (NOT optional)

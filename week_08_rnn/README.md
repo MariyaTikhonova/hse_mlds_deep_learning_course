@@ -12,7 +12,7 @@
 * [data for practice](https://github.com/MariyaTikhonova/hse_mlds_deep_learning_course/blob/spring_fall_22/week_08_rnn/anna.txt)
 
 
-## Homework NLP (NOT optional)
+## Homework NLP 
 We will solve [iad-deep-learning nlp homework](https://github.com/hse-ds/iad-deep-learning/blob/master/2021/homeworks/hw03/hw3_kaggle.ipynb) with slight changes in scoring system:
 
 Part 1: not only tf-idf needs to be done, but also "tf" and bag of words. Do a little comparison report.

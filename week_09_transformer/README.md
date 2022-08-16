@@ -6,9 +6,9 @@
 * [learn  transformers in 15 min](https://www.youtube.com/watch?v=4Bdc55j80l8)
 
 ## Seminar
-* [seminar slides](https://docs.google.com/presentation/d/1vbfwyhaKVou2xU7v_RVUMoyXRf-gsb20FCQQhQ7GhaE/edit?usp=sharing)
+* [seminar slides](https://github.com/MariyaTikhonova/hse_mlds_deep_learning_course/blob/spring_fall_22/week_09_transformer/MLDS%20DL%20Week%209_%20transformers.pdf)
 
-* [yandexdata_school_nlp_course/week05_transfer/seminar.ipynb](https://github.com/yandexdataschool/nlp_course/blob/2021/week05_transfer/seminar.ipynb)
+* [Bert tutorial](https://github.com/MariyaTikhonova/hse_mlds_deep_learning_course/blob/spring_fall_22/week_09_transformer/MLDS%20DL%20Week%209%20BERT_tutorial.ipynb)
 
 
 

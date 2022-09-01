@@ -43,9 +43,10 @@ The deadline for completing homework will be announced along with the homework.
 6. Autoencoders and generative models
 7. Introduction to text processing
 8. Recurrent neural networks, seq2seq tasks
-9. Attention mechanisms and transformers
-10. Basics of sound processing
-11. Recommendation systems
-12. Graph models
-13. Reinforcement Learning
-14. Additional deep Learning topics
+9. NLP applications
+10. Attention mechanisms and transformers
+11. Basics of sound processing
+12. Recommender systems
+13. Recommender system applications
+14. Graph models
+

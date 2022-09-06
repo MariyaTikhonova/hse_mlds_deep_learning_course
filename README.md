@@ -4,7 +4,7 @@
 
 Course page can be found via this [link](http://wiki.cs.hse.ru/.%D0%93%D0%BB%D1%83%D0%B1%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%9C%D0%9E%D0%B8%D0%92%D0%A1-2022-2023).
 
-Seminars: **[Wednesday 18.00](https://docs.google.com/spreadsheets/d/158tztQ-jFFErWMk7k3INnSs8tjDTWP9j1SBE-uxFfMw/edit)** 
+Seminars: **[Tuesday 18.00](https://docs.google.com/spreadsheets/d/158tztQ-jFFErWMk7k3INnSs8tjDTWP9j1SBE-uxFfMw/edit)** 
  
 This course was originally developed by [pet67](https://github.com/pet67) and is strongly based on materials from other great HSE DL courses:
 1. https://github.com/hse-ds/iad-deep-learning
@@ -14,11 +14,7 @@ All used materials from other courses has corresponding references.
 
 Material from the previous session of the course can be found in [main branch](https://github.com/pet67/hse_mlds_deep_learning_course) of the repository.
 
-# Grading
 
-Your Final Grade = round(0.3 * hw_1  + 0.3 * hw_2 + 0.3 * hw_3 + 0.1 * exam)
-
-Your Grade in the 4th module will be calculated based on your HW results.
 
 # Homeworks
 ## Submission

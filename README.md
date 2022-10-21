@@ -46,3 +46,10 @@ The deadline for completing homework will be announced along with the homework.
 13. Recommender system applications
 14. Graph models
 
+# Exam
+At the exam you will be given 3 question. You will have time to prepare on your own. The goal is to show that you actually **understand** the material. 
+
+**Warning:** we may also ask you some additional questions from the list and you should be ready to answer questions about the number of hyperparameters and basic formulas on the fly. 
+
+[Exam questions](https://github.com/MariyaTikhonova/hse_mlds_deep_learning_course/blob/spring_fall_22/Exam%20questions%20DL%20%D0%9C%D0%9E%D0%92%D0%A1.pdf)
+
